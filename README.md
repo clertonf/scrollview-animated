@@ -7,4 +7,4 @@ Template made to use animations in a ScrollView, scrolling the page to the top o
 - React Native
 - Expo
 - react-native-animated
-- Stylesheet
+- StyleSheet
